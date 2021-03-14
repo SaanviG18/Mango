@@ -54,7 +54,7 @@ function mouseDragged(){
  }
  
  function mouseReleased(){
-   constt.fly();
+   constr.fly();
  }
 
 
