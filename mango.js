@@ -9,7 +9,7 @@ class Mango{
             this.width = width;
             this.height = height;
     
-        this.image=loadImage("stone.png");
+        this.image=loadImage("mango.png");
         World.add(world, this.body);
         }
     
